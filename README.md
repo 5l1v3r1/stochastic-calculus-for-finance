@@ -8,10 +8,10 @@ My answers to exercises in **Stochastic Calculus for Finance** by *Steven E. Shr
     - [ ] 5. Random Walk (9)
     - [ ] 6. **[Interest-Rate-Dependent Assets](106-interest-rate.pdf) (1/7)**
 
-- [ ] II. Continuous-Time Models (121)
+- [ ] II. Continuous-Time Models **(2/121)**
     - [ ] 1. General Probability Theory (15)
     - [ ] 2. Information and Conditioning (11)
-    - [ ] 3. Brownian Motion (9)
+    - [ ] 3. **[Brownian Motion](203-brownian-motion.pdf) (2/9)**
     - [ ] 4. Stochastic Calculus (21)
     - [ ] 5. Risk-Neutral Pricing (14)
     - [ ] 6. Connections with Partial Differential Equations (10)
@@ -21,4 +21,4 @@ My answers to exercises in **Stochastic Calculus for Finance** by *Steven E. Shr
     - [ ] 10. Term-Structure Models (12)
     - [ ] 11. Introduction to Jump Processes (7)
 
-*for discussion, please write to Aaron at aaron.fu (at) alumni.ust.hk*
+*for discussion, please write to aaron.fu (at) alumni.ust.hk*
