@@ -21,3 +21,6 @@ My answers to exercises in **Stochastic Calculus for Finance** by *Steven E. Shr
     - [ ] 10. Term-Structure Models (12)
     - [ ] 11. Introduction to Jump Processes (7)
 
+---
+
+for discussion, please write to Aaron at aaron.fu (at) alumni.ust.hk
