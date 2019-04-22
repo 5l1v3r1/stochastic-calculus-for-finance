@@ -1,10 +1,10 @@
 My answers to exercises in **Stochastic Calculus for Finance** by *Steven E. Shreve*.
 
-- [ ] I. Binomial Asset Pricing Model **(16/55)**
+- [ ] I. Binomial Asset Pricing Model **(17/55)**
     - [x] 1. **[The Binomial No-Arbitrage Pricing Model](101-binomial.pdf) (9/9)**
     - [ ] 2. Probability Theory on Coin Toss Space (14)
     - [ ] 3. State Prices (9)
-    - [ ] 4. American Derivative Securities (7)
+    - [ ] 4. **[American Derivative Securities](104-american.pdf) (1/7)**
     - [ ] 5. Random Walk (9)
     - [x] 6. **[Interest-Rate-Dependent Assets](106-interest-rate.pdf) (7/7)**
 
